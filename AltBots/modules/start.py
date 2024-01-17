@@ -8,8 +8,8 @@ START_BUTTON = [
         Button.inline("• ᴄᴏᴍᴍᴀɴᴅs •", data="help_back")
     ],
     [
-        Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/ASHWANI10_OFFICIAL"),
-        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/chatventure_club")
+        Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/The_Devil_Heaven"),
+        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/The_Devil_Heaven")
     ],
     [
         Button.url("• ʀᴇᴘᴏ •", "https://github.com/ASHWANIashwani/XBOTS")
